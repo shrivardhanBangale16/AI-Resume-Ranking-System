@@ -38,13 +38,13 @@ Ideal for:
 ## 📸 UI Preview
 
 ### 🖼️ Home Screen
-![Home](./Screenshot 2025-06-27 182246.png)
+![Home](Screenshot%202025-06-27%20182246.png)
 
 ### 🖼️ JD and Resume Upload
-![Upload](./Screenshot 2025-06-27 182435.png)
+![Upload](Screenshot%202025-06-27%20182435.png)
 
 ### 🖼️ Ranking Results
-![Results](./Screenshot 2025-06-27 182513.png)
+![Results](Screenshot%202025-06-27%20182513.png)
 
 ---
 
