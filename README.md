@@ -1,3 +1,4 @@
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](https://ai-resume-ranking-system-plo8h4ugdykqgszrja4rd5.streamlit.app/)
 
 # 🧠 AI Resume Ranking System
 
